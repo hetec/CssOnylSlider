@@ -1,0 +1,21 @@
+{
+  "name": "ph-web",
+  "version": "1.0.0",
+  "description": "My Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "patrick hebner",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp-connect": "^5.0.0",
+    "gulp-delete-file": "^1.0.2",
+    "gulp-jade": "^1.1.0",
+    "gulp-open": "^2.0.0",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-sass": "^3.1.0",
+    "run-sequence": "^1.2.2"
+  }
+}
